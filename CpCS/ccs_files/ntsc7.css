@@ -1,0 +1,280 @@
+/* FROM dmaredesign.css */
+.smltrfont {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 7pt; text-decoration: none; clip:    rect(   ); font-weight: bold}
+.logo {  background-image: url(../img/logo.html); background-repeat: no-repeat; clip:   rect(   )}
+.smltrfontnav { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 7pt; clip: rect( ); font-weight: normal; color: #000000}
+.nav_font { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 7pt; text-decoration: none; clip: rect( ); font-weight: normal; background-color: #7EA190}
+a {  text-decoration: none}
+.noRepeat {  background-repeat: no-repeat}
+.prel {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt}
+.content {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: normal}
+
+.history {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-style: normal; font-weight: normal; clip:  rect(   15pt); text-align: left; vertical-align: middle; padding-left: 15px; line-height: 12pt; padding-top: 10px; padding-bottom: 10px}
+.historyYears { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-style: normal; font-weight: normal; clip: rect(   15pt); text-align: left; vertical-align: top; padding-left: 15px; line-height: 12pt ; padding-top: 10px; padding-bottom: 10px; height: 100%}
+.leftborder {  border-color: black black black #7EA190; border-left-width: 100%}
+.hdr_style {  padding-top: 10px}
+.history_content {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; font-style: normal; font-weight: normal; padding-left: 55pt; line-height: 12pt}
+.his_nav { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 7pt; text-decoration: none; clip: rect( ); font-weight: normal; color: #CCCCCC; font-style: normal}
+.his_HL {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-style: normal; font-weight: bold; color: #000000}
+.content_hdr { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-style: normal; font-weight: bolder; color: #CCCCCC}
+.history_intro { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-style: normal; font-weight: normal; clip: rect(   15pt); text-align: left; line-height: 12pt}
+
+/* END FROM dmaredesign.css */
+
+.metanavi {font-family: verdana,arial; font-size: 0.6em; font-weight: bold; color: #878684; line-height:1em;}
+.metanavi:hover {font-family: verdana,arial; font-size: 0.6em; font-weight: bold; color: #7EA190; line-height:1em;}
+.metanavi a:link {font-family: verdana,arial; font-weight: bold; text-decoration: none; color: #878684; line-height: 1em;}
+.metanavi a:visited {font-family: verdana,arial; font-weight: bold; text-decoration: none; color: #878684; line-height: 1em;}
+.metanavi a:hover {font-family: verdana,arial; font-weight: bold; text-decoration: none; color: #7EA190; line-height: 1em;}
+.metanavi a:active {font-family: verdana,arial; font-weight: bold; text-decoration: none; color: #7EA190; line-height: 1em;}
+
+/* Original Styles */
+.navi {font-family: verdana,arial; font-size: 0.7em; color: #000000; line-height:16px;}
+.navi a:link {font-family: verdana,arial; text-decoration: none; color: #000000; line-height:16px;}
+.navi a:visited {font-family: verdana,arial; text-decoration: none; color: #999999; line-height:16px;}
+.navi a:hover {font-family: verdana,arial; text-decoration: none; color: #7EA190; line-height:16px;}
+.navi a:active {font-family: verdana,arial; text-decoration: none; color: #000000; line-height:16px;}
+
+.header {font-family: verdana,arial; font-size: 14px; font-weight: bold; color: #000000; line-height: 17px;}
+
+.subheader {font-family: verdana,arial; font-size: 0.6em; font-weight: bold; color: #000000; line-height:1.7em; text-decoration: none;}
+.subheader a:link {font-family:Verdana,Arial; font-weight: bold; color:#000000; text-decoration: none; line-height:1.7em;}
+.subheader a:hover {font-family:Verdana,Arial; font-weight: bold; color:#7EA190; text-decoration: none; line-height:1.7em;}
+.subheader a:active {font-family:Verdana,Arial; font-weight: bold; color:#7EA190; text-decoration: none; line-height:1.7em;}
+.subheader a:visited {font-family:Verdana,Arial; font-weight: bold; color:#999999; text-decoration: none; line-height:1.7em;}
+
+.subheaderWhite {font-family: verdana,arial; font-size: 0.7em; font-weight: bold; color: #ffffff; line-height:1.7em;}
+.subheaderWhite a:link {font-family: verdana,arial; font-weight: bold; color: #ffffff; text-decoration: none; line-height:1.7em;}
+.subheaderWhite a:visited {font-family: verdana,arial; font-weight: bold; color: #ffffff; text-decoration: none; line-height:1.7em;}
+.subheaderWhite a:hover {font-family: verdana,arial; font-weight: bold; color: #7EA190; text-decoration: none; line-height:1.7em;}
+.subheaderWhite a:active {font-family: verdana,arial; font-weight: bold; color: #7EA190; text-decoration: none; line-height:1.7em;}
+
+.copy {font-family: verdana,arial; font-size: 0.7em; color: #000000; line-height:1.3em;}
+.copy a:link {font-family:Verdana,Arial; color:#7EA190; text-decoration: underline; line-height:17px;}
+.copy a:visited {font-family:Verdana,Arial; color:#878684; text-decoration: underline; line-height:17px;}
+.copy a:hover {font-family:Verdana,Arial; color:#878684; text-decoration: underline; line-height:17px;}
+.copy a:active {font-family:Verdana,Arial; color:#878684; text-decoration: underline; line-height:17px;}
+
+.copyMPBlue {font-family: verdana,arial; font-size: 0.7em; color: #000000; line-height:1.65em; text-decoration:none;}
+.copyMPBlue a:link {font-family: verdana,arial; color: #7EA190; line-height:1.65em; text-decoration:none;}
+.copyMPBlue a:visited {font-family: verdana,arial; color: #878684; line-height:1.65em; text-decoration:none;}
+.copyMPBlue a:hover {font-family: verdana,arial; color: #878684; line-height:1.65em; text-decoration:none;}
+.copyMPBlue a:active {font-family: verdana,arial; color: #878684; line-height:1.65em; text-decoration:none;}
+
+.copyGrey {font-family: verdana,arial; font-size: 0.7em; color: #666666; line-height:1.7em;}
+
+.emphasized {font-family:Verdana, Arial; font-size:0.7em; font-weight:bold; color:#000000; line-height:1.7em;}
+
+.subcopy {font-family:Verdana,Arial; font-size:0.7em; color:#000000; line-height:1.2em;}
+
+.subcopyGrey {font-family:Verdana,Arial; font-size:0.7em; color:#999999;}
+.subcopyGrey a:link {font-family:Verdana,Arial; color:#999999; text-decoration: none;}
+.subcopyGrey a:visited {font-family:Verdana,Arial; color:#999999; text-decoration: none;}
+.subcopyGrey a:hover {font-family:Verdana,Arial; color:#7EA190; text-decoration: none;}
+.subcopyGrey a:active {font-family:Verdana,Arial; color:#7EA190; text-decoration: none;}
+
+
+.inputJobsearch {font-family: Verdana,Arial; font-size: 0.7em; color:#000000; width: 126px;}
+.inputDrop {font-family: Verdana,Arial; font-size: 0.7em; color:#000000; width: 116px;}
+.inputRowSm {font-family: Verdana,Arial; font-size: 0.8em; color:#000000; width: 144px;}
+.inputRowBg {font-family: Verdana,Arial; font-size: 0.8em; color:#000000; width: 318px;}
+.inputField {font-family: Verdana,Arial; font-size: 0.7em; color:#000000; width: 202px; height: 136px;}
+.inputRow {font-family: Verdana,Arial; font-size: .0.7em; color:#000000; width: 10.0em;}
+.inputMultiple {font-family: Verdana,Arial; font-size: 0.7em; color:#000000; width: 188px; height: 82px;}
+.inputDigits {font-family: Verdana,Arial; font-size: 0.7em; color:#000000; width: 20px;}
+.inputEmail {font-family: Verdana,Arial; font-size: 0.7em; color:#000000; width: 174px;}
+.inputDate {font-family: Verdana,Arial; font-size: 0.7em; color:#000000; width: 78px;}
+.inputDateCalc {font-family: Verdana,Arial; font-size: 0.7em; color:#000000; width: 46px;}
+.inputCalc {font-family: Verdana,Arial; font-size: 0.7em; color:#000000; width: 104px;}
+.Button {line-height:2px;}
+.managementPic {position:relative;left:0px;padding-left:0px;padding-bottom:0px;padding-right:26px;float:left;}
+
+
+/*Floating.js*/
+#line {position: absolute; left:0px; top:670px; visibility: visible; height: 1px; z-index:2300;}
+#footerNav {position: absolute; left:0px; visibility: visible; height: 18px; z-index:2400; background-color: white; width: 100%; text-align: center; font-family: Verdana, Helvetica, Arial; font-size: 11px; color: gray;}
+#naviColor {background-color: #7EA190; color: #7EA190; position: absolute; visibility:hidden; width: 144px; z-index:2100; top:320px; left:175px;}
+#naviLine {background-color: #ffffff; color: #ffffff; visibility: hidden; width: 145px; z-index:2200; position: absolute; top:103px; left:144px;}
+	
+/*HOME PAGE FONTS*/
+.welcome {font-family:Verdana,Arial,Helvetica,san-serif;font-weight:normal;font-size:24px;font-color:#000000;}
+.navilang {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 9px;font-weight:bold;text-decoration: none;color:#878684;}
+.navilang:hover {color:#7EA190;}
+.solution {font-family:Verdana,Arial,Helvetica,san-serif; font-size: 14px; font-weight:bold; }
+
+.meosHeader {font-family: Verdana,arial; font-size: 0.7em; color: #000000; line-height:17px; border:solid #999999 .5pt; background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt}
+.meosEven {font-family: Verdana,arial; font-size: 0.7em; color: #000000; line-height:17px; border:solid #999999 .5pt; background:#ffffff;padding:0in 5.4pt 0in 5.4pt}
+.meosOdd {font-family: Verdana,arial; font-size: 0.7em; color: #000000; line-height:17px; border:solid #999999 .5pt; padding:0in 5.4pt 0in 5.4pt}
+.meosOdd2:link{font-family: Verdana,arial; font-size: 0.9em; color: #7EA190; line-height: 17px;text-decoration: underline}
+.meosOdd2:hover{color: #878684;}
+.meosTable { border-collapse:collapse;border:none;mso-border-alt:solid #999999 .5pt; mso-padding-alt:0in 5.4pt 0in 5.4pt}
+
+
+
+.pgtitle {font-family: arial; font-size: medium; color: #5F81AA; text-decoration: none;}
+
+
+/* Title Bar Elements */
+.titleTable{ width: 36.6em; height: 2.35em;}
+.titleTableIdx{ width: 53.3em; height: 5.55em;}
+
+/* Macro Positioning Elements */
+.menuPos {position: absolute; left: 0em; top: 6.5em; z-index: 1; width: 10.9em;}
+.menuPosIdx {position: absolute; left: 5.5em; top: 6.5em; z-index: 1; width: 10.9em;}
+.titlePos {position: absolute; left: 10.9em; top: 6.5em; z-index: 0; width: 10em; height: 3em;}
+.titlePosIdx {position: absolute; left: 0em; top: 6.5em; z-index: 0; width: 10em; height: 3em;}
+.langPosIdx {position: absolute; left: 35em; top: 12em; z-index: 0;}
+.imgPosIdx{position:absolute; left:16.45em; top:12.1em; z-index:1; visibility: visible}
+.imgPosSecIdx{position:absolute; left:10.9em; top:8.95em; z-index:1;}
+.imgPosSec3Idx {position:absolute; left:10.9em; top:8.95em; width:463px; height:66px; z-index:1; visibility: visible;}
+.titleTextPosIdx{position:absolute; left: 28em; top:8.5em; z-index:2}
+.posTagLineIdx {position: absolute; left: 6.9em; top: 4.6em; z-index: 0; height: 17px; }
+.metaNavPos {position: absolute; left: 1em; top: .5em; z-index: 0; width: 30em; height: 1.5em;}
+.logoPos {position: absolute; left: 39.9em; top: 10px; z-index: 0;} 
+.quadPos {position: absolute; left: 30.8em; top: 32px; z-index: 0; width: 233px; height: 36px;}
+.logoPrintPos {position: absolute; left: 20em; top: 10px; z-index: 0;}
+.quadPrintPos {position: absolute; left: 20em; top: 32px; z-index: 0; width: 233px; height: 36px;}
+.contentPosIdx {position: absolute; left: 29em; top: 14em; z-index: 2; width: 16em;}
+.contentPos {position: absolute; left: 13em; top: 11em; z-index: 2; width: 30em;}
+.contentPosSecIdx {position: absolute; left: 24em; top: 10em; z-index: 2; width: 20em;}
+.contentPosDouble {position: absolute; left: 13em; top: 11em; z-index: 0; width: 21.5em;}
+.contentPosCountry {position: absolute; left: 11em; top: 11em; z-index: 2; width: 35em;}
+.logoPosPrint {position: absolute; left: 22.8em; top: 10px; z-index: 0;}
+.quadPosPrint {position: absolute; left: 22.8em; top: 32px; z-index: 0; width: 233px; height: 36px;}
+.directJobs {position: absolute; left: 0.5em; top: 3.8em; z-index: 0; }
+.footerPos {position: absolute; left: 18em; top: 30em; z-index: 0;}
+.flashPos {position: absolute; left: 31.5em; top: 24em; z-index:0;}
+.flashPosLeft {position: absolute; left: 16.5em; top: 24em; z-index:0;}
+.idxColorBox1 {position: absolute;left: 0em; top: 13.5em; width: 8em; height: 1.2em; font-size: 0.9em;}
+.idxColorBox2 {position: absolute;left: 0em; top: 22.4em; width: 37em; height: 1.3em; }
+.clColorBox1 {position: absolute;left: 10em; top: 22.95em; width: 37em; height: 2em; z-index:0}
+
+
+h1.pgtitle {font-family: arial; font-size: 1.0em; font-weight: bold; color: #5F81AA; line-height: 1.0em; text-decoration: none; display: inline;}
+h1.pgtitleIdx {font-family: arial; font-size: 1.55em; font-weight: normal; color: black; text-decoration: none; display: inline;}
+
+h2.subheaderWhite {font-family: verdana, arial; font-size: 1.0em; font-weight: bold; color: #ffffff; line-height:1.3em; display: inline;}
+
+.titlePos_vlsel {position: absolute; left: 10.9em; top: 6.5em; z-index: 8; width: 10em; height: 3em;}
+.titleTable_vlsel{ width: 36.6em; height: 2.35em;}
+
+/*Visual Library Top Level jsp */
+.toplevel{position: absolute; left: 12.35em; top: 19em; z-index: 1; width: 29.5em;}
+.toplevel_submit{position: absolute; left: 22em; top: 4em; z-index:601; width:30em;}
+.toplevel_image{position:absolute; left: -0.00em; top:3.44em; z-index:100;}
+.toplevel_smbar{border-top: 1px solid white; position: absolute; width: 36.55em; height: 1.05em; left:.05em; top:2.30em; z-index:600; display:block;}
+.toplevel_tpbar{padding-top: 0.7em; padding-left: 1.5em; position:absolute; width:27.6em; height:5.15em; left:.05em; top:0em; z-index:600; display:block;}
+.toplevel_footer{position:absolute;left:12em; top:26em; z-index:700;}
+
+.titleTable_toplevel{ width: 30em; height: 3em;}
+.imagePos{position: absolute; left: 37.95em; top: 12.5em; z-index: 0;}
+.vlt_backgroundDiv { position: absolute; left: 10.90em; top: 9.75em; width: 36.6em; height: 20em; z-index: 1; }
+/*MEOS */
+.contentPos_meos {position: absolute;left: 12em; top: 8.65em; z-index: 2; width: 35.6em;}
+/*.contentPos_meos {position: absolute;left: 9em; top: 10em; z-index: 2; width: 40em;}*/
+
+/* secondaryindex3 */
+.titleTable_si3{ width: 29em; height: 5.15em; display:block;}
+.contentPos_si3 {position: absolute; left: 13em; top: 14em; z-index: 0; width: 26em;}
+
+/* terms of use */
+.contentPos_terms {position: absolute; left: 0.2em; top: 8em; z-index: 2; width: 40em;}
+
+/* content pop up */
+.contentPos_popup {position:absolute; left: 0.8em; top: 8em; z-index: 2; width: 40em;}
+/* content print */
+.contentPos_print {position:absolute; left: 0.5em; top: 8em; z-index: 2; width: 36em;}
+
+.footer {font-family: verdana,arial; font-size: 0.6em; color: gray; line-height:1em;}
+.footer a:link {font-family: verdana,arial; text-decoration: none; color: gray; line-height: 1em;}
+.footer a:visited {font-family: verdana,arial; text-decoration: none; color: gray; line-height: 1em;}
+.footer a:hover {font-family: verdana,arial; text-decoration: none; color: #7EA190; line-height: 1em;}
+.footer a:active {font-family: verdana,arial; text-decoration: none; color: #7EA190; line-height: 1em;}
+
+/* ----------- Country Locator ------------*/
+.inputDrop {color: #000000;font-family: Verdana, Arial, Helvetica, san-serif;font-size: 0.8em;}
+.countryselector {color: #000000;font-family: Verdana, Arial, Helvetica, san-serif;font-size: 0.7em;background-color:#FFFFFF;z-index:101;width: 11em;}
+/*#countrylocatortable {background-color:#FFFFFF;}*/
+#countrylocatorindex {position:absolute;top:289px;left:88px;width:144px;height:85px;
+	z-index:100;background-color:#FFFFFF;border-top-color:#ffffff;border-top-width:1px;
+	border-top-style:solid;border-bottom-color:#ffffff;border-bottom-width:1px;border-bottom-style:solid;}
+#countrylocatorcontent {position:absolute;top:306px;left:0px;width:144px;height:84px;z-index:100;background-color:#FFFFFF;
+	border-top-color:#ffffff;border-top-width:1px;border-top-style:solid;border-bottom-color:#ffffff;border-bottom-width:1px;
+	border-bottom-style:solid;}
+
+/*  ---------- Menu Styles ---------- */
+.navTable {width: 10.9em;border: 1px solid; border-color: #ffffff;border-top: none;}
+
+TR.navRow1Spacer TD {vertical-align: middle; border-bottom: 1px solid #ffffff;
+	border-left: none; border-top: none; border-right: none; height: 2.6em;}
+
+TR.navRowSpacer1 TD {vertical-align: middle; border-bottom: 1px solid #ffffff;
+	border-left: none; border-top: none; border-right: none; height: 5.95em;}
+
+TR.navCountryLocator TD {vertical-align: middle; border-bottom: 1px solid #ffffff;background-color: #7EA190;
+	border-left: none; border-top: none; border-right: none; height: 4.6em;}
+
+.navCountryLocatorBody {font-family: verdana, arial, sans-serif; 
+	line-height: 1.7em; text-align: center}
+
+.navText1, .navHighlightText1, .navGroupText1 {font-family: verdana, arial, sans-serif; font-size: 0.6em; 
+	line-height: 1.7em; padding-left: 14px; border: none; }
+
+.navText2, .navHighlightText2, .navGroupText2 {font-family: verdana, arial, sans-serif; font-size: 0.6em;
+	/*font-weight: bold;*/ line-height: 1.7em; padding-left: 26px; color: #7EA190; border: none; }
+
+.navText2Selected, .navHighlightText2Selected, .navGroupText2Selected {font-family: verdana, arial, sans-serif; font-size: 0.6em;
+	/*font-weight: bold;*/ line-height: 1.7em; padding-left: 26px; color: #7EA190; border: none; }
+
+TR.navRow1 TD {vertical-align: middle; border-bottom: 1px solid #ffffff; border-left: none; border-top: none; border-right: none;} 
+TR.navRow2 TD {vertical-align: middle; border-bottom: 1px solid #ffffff; border-left: none; border-top: none; border-right: none;}
+TR.navRow3 TD {vertical-align: middle; border-bottom: 1px solid #878684; border-left: none; border-top: none; border-right: none;}
+TR.navRow4 TD {vertical-align: middle; border-bottom: 1px solid #ffffff; border-left: none; border-top: none; border-right: none;}
+
+TR.navRow1Selected TD {vertical-align: middle; border-bottom: 1px solid #ffffff; border-left: none; border-top: none; border-right: none;}
+TR.navRow2Selected TD {vertical-align: middle; border-bottom: 1px solid #878684; border-left: none; border-top: none; border-right: none;}
+TR.navRow3Selected TD {vertical-align: middle; border-bottom: 1px solid #878684; border-left: none; border-top: none; border-right: none;}
+TR.navRow4Selected TD {vertical-align: middle; border-bottom: 1px solid #878684; border-left: none; border-top: none; border-right: none;}
+
+.nav1 {background-color: #7EA190;}
+.nav1Selected {background-color: #878684;}
+
+.nav1 A:link {color: #ffffff;text-decoration: none;}
+.nav1 A:visited {color: #ffffff;text-decoration: none;}
+.nav1 A:hover {color: #ffffff;text-decoration: none;}
+.nav1Selected A:link {color: #ffffff;text-decoration: none;}
+.nav1Selected A:visited {color: #ffffff;text-decoration: none;}
+.nav1Selected A:hover {color: #ffffff;text-decoration: none;}
+
+.nav2 {background-color: #B9B9B9;}
+.nav2 A:link {color: #ffffff;text-decoration: none}
+.nav2 A:visited {color: #ffffff;text-decoration: none}
+.nav2 A:hover {color: #878684;text-decoration: none}
+.nav2Selected {background-color: #ffffff; font-weight: bold;}
+.nav2Selected A:link {color: #878684;text-decoration: none}
+.nav2Selected A:visited {color: #878684;text-decoration: none}
+.nav2Selected A:hover {color: #878684;text-decoration: none}
+.nav2Selected A:active {color: #878684;text-decoration: none}
+
+.nav3 {background-color: #ffffff;}
+.nav3Selected {background-color: #7EA190;}
+
+.nav3 A:link {color: #878684;text-decoration: none;}
+.nav3 A:visited {color: #878684;text-decoration: none;}
+.nav3 A:hover {color: #ffffff;text-decoration: none;}
+.nav3Selected A:link {color: #ffffff;text-decoration: none;}
+.nav3Selected A:visited {color: #ffffff;text-decoration: none;}
+.nav3Selected A:hover {color: #878684;text-decoration: none;}
+
+.navText3, .navHighlightText3, .navGroupText3 {font-family: verdana, arial, sans-serif; font-size: 0.6em;
+	/*font-weight: bold;*/ line-height: 1.7em; padding-left: 40px; color: #7EA190}
+
+
+.navText4, .navHighlightText4, .navGroupText4 {font-family: verdana, arial, sans-serif; font-size: 0.6em;
+	/*font-weight: bold;*/ line-height: 1.7em; padding-left: 54px; color: #7EA190}
+
+.naiMenu {border-top: 2px solid #7EA190; border-left: 2px solid #7EA190;
+	border-right: 2px solid #7EA190; border-bottom: 2px solid #7EA190;
+	font-family: arial; font-weight: bold; font-size: 10px; text-decoration: none;}
+
+.naiTop {border-top: 2px solid #7EA190;}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

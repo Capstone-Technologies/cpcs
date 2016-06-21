@@ -1,0 +1,97 @@
+#featured{ 
+	width:518px; 
+	position: relative; 
+	border-color:#eaeaea; 
+	height:247px; 
+	background:#eaeaea;
+	padding: 6px 254px 6px 6px;
+}
+#featured ul.ui-tabs-nav{ 
+	position:absolute; 
+	top:0; left:514px; 
+	list-style:none; 
+	padding:5px; margin:0; 
+	width:254px; 
+}
+#featured ul.ui-tabs-nav li{ 
+	padding: 0; padding-left:17px;  
+	font-size:12px; 
+	color:#666; 
+}
+#featured ul.ui-tabs-nav li img{ 
+	float:left; margin:2px 5px; 
+	background:#fff; 
+	padding:2px; 
+	border:1px solid #eee;
+	position: relative;
+}
+#featured ul.ui-tabs-nav li span{ 
+	font-size:11px; font-family:Verdana; 
+	line-height:18px; 
+	margin: 2px;
+}
+#featured li.ui-tabs-nav-item a{ 
+	display:block; 
+	height:60px; 
+	color:#333;  background:#f2f2f2; 
+	line-height:1.1;
+	outline: 0;
+	text-decoration: none;
+	border-bottom: 1px solid #ccc;
+	border-top: 1px solid #fff;
+	border-right: 1px solid #fff;
+}
+#featured li.ui-tabs-nav-item a:hover{ 
+	background:#eaeaea; 
+}
+#featured li.ui-tabs-nav-item a p { 
+	margin: 0;
+	padding: 0;
+	padding-top: 10px;
+	height: 40px;
+}
+#featured li.ui-tabs-selected{ 
+	background:url('featured_tip_selected.png') left top	 no-repeat;  
+}
+#featured ul.ui-tabs-nav li.ui-tabs-selected a{ 
+	background: url('../images/feature_tab_selected2.html') no-repeat; 
+}
+#featured .ui-tabs-panel{ 
+	width:529px; height:247px; 
+	background:#999; position:relative;
+}
+#featured .panelImg {
+	border: none;
+}
+#featured .ui-tabs-panel .info{ 
+	position:absolute; 
+	top:178px; left:0; 
+	height:69px; 
+	background: url('../images/transparent-bg.html'); 
+	width: 100%;
+}
+#featured .info h2{  
+	font: 16px lighter Verdana, Arial, Helvetica, sans-serif; 
+	color:#fff; padding:5px 10px 0px 10px; margin:0;
+	overflow:hidden; 
+}
+#featured .info p{ 
+	margin:5px 10px; 
+	font-family:Verdana; font-size:11px; 
+	line-height:15px; color:#f0f0f0;
+}
+#featured .info a{ 
+	text-decoration:none; 
+	color:#fff;
+}
+#featured .info p a{ 
+	text-decoration:none; 
+	color:#fff;
+	padding: 0 0 0 5px;
+}
+#featured .info a:hover{ 
+	text-decoration:underline; 
+}
+#featured .ui-tabs-hide{ 
+	display:none; 
+}
